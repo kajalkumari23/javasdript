@@ -1,1 +1,6 @@
-hello everyone this is kajal
+hello javascript
+hjhkjkkhlll
+
+git branch -M main
+git remote add origin https://github.com/kajalkumari23/flexbox.html.git
+git push -u origin main
